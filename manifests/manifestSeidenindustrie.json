@@ -1,0 +1,2783 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://aldon9.github.io/Seide/manifests/manifestSeidenindustrie.json",
+  "@type" : "sc:Manifest",
+  "label" : "Seidenindustrie in Zürich",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "",
+    "@language" : "de"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/; https://www.zh.ch/de/politik-staat/recherche-im-staatsarchiv.html#-1406638641",
+  "attribution" : [ "[Click to edit attribution]" ],
+  "sequences" : [ {
+    "@id" : "http://3616af8a-9679-40e3-9979-9ae9a1a8edb6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f3a1913e-afba-4db9-b3f1-85117eeb2b53",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2259,
+      "width" : 2825,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6b91d8c8-e61c-4154-bf01-109e225bbef7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/Z.451.1065",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2259,
+          "width" : 2825
+        },
+        "on" : "http://f3a1913e-afba-4db9-b3f1-85117eeb2b53"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "Z 451.1065"
+      }, {
+        "label" : "Titel",
+        "value" : "Sihl in Adliswil und Langnau am Albis bei Felsenegg: Blick flussaufwärts von der Felsenegg auf die Mechanische Seidenweberei Adliswil MSA"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1890 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Direktion der öffentlichen Arbeiten, Abteilung Tiefbau, Wasserbauwesen"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Einzugsgebiet: Sihl."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "15 x 10"
+      }, {
+        "label" : "Technik",
+        "value" : "Kollodiumpapierverfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://b4ff0f2e-f5b7-45b0-a52a-abfaa4b58e3a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3508,
+      "width" : 2614,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bf40a22b-2593-42b2-ac5f-76eb3cdd2358",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1833.2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1833.2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2614
+        },
+        "on" : "http://b4ff0f2e-f5b7-45b0-a52a-abfaa4b58e3a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 112.1833.2"
+      }, {
+        "label" : "Titel",
+        "value" : "Innenansichten von Färberei, Winderei, Zwirnerei, Heiz- und Schaltraum sowie Aufnahme von einer Zahnseidenmaschine"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1936-1940 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Zwicky und Co., Wallisellen"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "8 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Photo H. A. Bosch, Verlag, Zürich"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "16.2 x 20.3, 16.9 x 20.3, 17.0 x 22.9, 24.0 x 17.8"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://5a1a35e7-a26a-49cf-98ba-c31c9b18854a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3508,
+      "width" : 2636,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8d050014-c0d8-4a99-aed3-5436c6907004",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1592.2_fol_1_r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1592.2_fol_1_r",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2636
+        },
+        "on" : "http://5a1a35e7-a26a-49cf-98ba-c31c9b18854a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 112.1592"
+      }, {
+        "label" : "Titel",
+        "value" : "Inserate für Nähseide von der Firma Zwicky und Co. und von der Firma Gütermann"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1924-1983"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Zwicky und Co., Wallisellen Zwicky und Co. AG, Wallisellen"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "Value"
+      }, {
+        "label" : "Technik",
+        "value" : "Value"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://ac72c1f9-dba0-4fb4-a7f0-89a95e60d218",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3508,
+      "width" : 2631,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65eff3b5-3459-40e0-9824-c747041e1f5f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1592.1_fol_18_v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_112.1592.1_fol_18_v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2631
+        },
+        "on" : "http://ac72c1f9-dba0-4fb4-a7f0-89a95e60d218"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 112.1592"
+      }, {
+        "label" : "Titel",
+        "value" : "Inserate für Nähseide von der Firma Zwicky und Co. und von der Firma Gütermann"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1924-1983"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Zwicky und Co., Wallisellen Zwicky und Co. AG, Wallisellen"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "Value"
+      }, {
+        "label" : "Technik",
+        "value" : "Value"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://abe93733-7466-4402-8303-28b9728d3dd2",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2884,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://701e185e-3f7e-42ec-bbf8-4227e0f31fab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_109.53/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_109.53",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2884,
+          "width" : 3508
+        },
+        "on" : "http://abe93733-7466-4402-8303-28b9728d3dd2"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 109.53"
+      }, {
+        "label" : "Titel",
+        "value" : "Betriebsausflug der Seidenweberei Stünzi Söhne"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "undatiert"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Hans Adolf Stünzi-Stünzi"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "31 x 22.5"
+      }, {
+        "label" : "Technik",
+        "value" : "Albuminverfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://d84fedeb-c9cb-48de-8b36-65d6f82b3727",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2630,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://abc40ada-4173-4fcf-ad07-fafdeda18d40",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.191/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.191",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2630,
+          "width" : 3508
+        },
+        "on" : "http://d84fedeb-c9cb-48de-8b36-65d6f82b3727"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.191"
+      }, {
+        "label" : "Titel",
+        "value" : "Standort der Seidenfabrik der Aktiengesellschaft Stünzi Söhne, in Wollishofen"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1920 (ca.)-1925 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft Stünzi Söhne"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Art. Institut Orell Füssli AG, in Zürich"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "95.0 x 68.8"
+      }, {
+        "label" : "Technik",
+        "value" : "Farblithografie"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://32c093d3-28c5-423d-aae8-415daab7657b",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2646,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1a7d0144-b97f-4fd5-a543-f94b5f295376",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.190/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.190",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2646,
+          "width" : 3508
+        },
+        "on" : "http://32c093d3-28c5-423d-aae8-415daab7657b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.190"
+      }, {
+        "label" : "Titel",
+        "value" : "Standort der Seidenfabrik der Aktiengesellschaft Stünzi Söhne, in Lachen SZ"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1920 (ca.)-1925 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft Stünzi Söhne"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Art. Institut Orell Füssli AG, in Zürich"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "95.0 x 68.5"
+      }, {
+        "label" : "Technik",
+        "value" : "Farblithografie"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://69b84d4d-7255-4616-a327-54acd195352a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2329,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://513920cf-9577-4025-957a-cc13f2d0ec0e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.189/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.189",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2329,
+          "width" : 3508
+        },
+        "on" : "http://69b84d4d-7255-4616-a327-54acd195352a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.189"
+      }, {
+        "label" : "Titel",
+        "value" : "Standort der Seidenfabrik der Aktiengesellschaft Stünzi Söhne, in Horgen"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1920 (ca.)-1925 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft Stünzi Söhne"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Art. Institut Orell Füssli AG, in Zürich"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "107.0 x 68.5"
+      }, {
+        "label" : "Technik",
+        "value" : "Farblithografie"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://4fc4efa1-3a5b-4178-92d2-fc1436ddd517",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3046,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e867552e-d75a-4d77-82ed-8c9ad7980db7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.33/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.33",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3046,
+          "width" : 3508
+        },
+        "on" : "http://4fc4efa1-3a5b-4178-92d2-fc1436ddd517"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.33"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://cee9c380-cf51-4478-be47-65757cd07b5a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3208,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2c9e0e80-0a87-461d-962a-49982355f4f0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.32/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.32",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3208,
+          "width" : 3508
+        },
+        "on" : "http://cee9c380-cf51-4478-be47-65757cd07b5a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.32"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://65d59fee-39d1-4e5a-ac9a-7080b37c4732",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3168,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd55f31e-3524-461d-bbb4-808acd0f7cd4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.31",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3168,
+          "width" : 3508
+        },
+        "on" : "http://65d59fee-39d1-4e5a-ac9a-7080b37c4732"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.31"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://f60f25c1-fa21-40b2-b1f5-73eb707b1d1f",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3261,
+      "width" : 3507,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4c4a1b92-035c-45a8-a0bd-2e95113723ea",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.30/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.30",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3261,
+          "width" : 3507
+        },
+        "on" : "http://f60f25c1-fa21-40b2-b1f5-73eb707b1d1f"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.33"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://6963cec9-dd62-4c34-b33b-fded7189ca4b",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3068,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e9f96813-e9e8-4397-9d49-e5652f47e43b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.11",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3068,
+          "width" : 3508
+        },
+        "on" : "http://6963cec9-dd62-4c34-b33b-fded7189ca4b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.11"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://7aebbcfa-9c5a-4e6c-b1e0-e46ee7173320",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3507,
+      "width" : 2619,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c3cdd8f0-6d08-4de2-810f-a371ac170b33",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3507,
+          "width" : 2619
+        },
+        "on" : "http://7aebbcfa-9c5a-4e6c-b1e0-e46ee7173320"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.8"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://d8851718-a6a2-4176-ba51-c44c804363c1",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3208,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9457a665-a610-4be9-b371-3aad79583d7e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3208,
+          "width" : 3508
+        },
+        "on" : "http://d8851718-a6a2-4176-ba51-c44c804363c1"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.7"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://f1928c15-0d5b-4b34-a5bc-82f681fea8aa",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3246,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6705c257-edae-4424-b020-a35fd5346da1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3246,
+          "width" : 3508
+        },
+        "on" : "http://f1928c15-0d5b-4b34-a5bc-82f681fea8aa"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.6"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://36785145-219b-46c4-bbd6-e010eb526efd",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3507,
+      "width" : 3406,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3fff8fcb-48f9-4e38-a686-fa3249f72b41",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3507,
+          "width" : 3406
+        },
+        "on" : "http://b5c6c59c-9580-4aa1-a8a8-22f0377c651d"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.5"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://b5c6c59c-9580-4aa1-a8a8-22f0377c651d",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3508,
+      "width" : 2544,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://90e5af3c-ab8c-4877-8a65-9c3eecb2197b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_108.183.3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2544
+        },
+        "on" : "http://b5c6c59c-9580-4aa1-a8a8-22f0377c651d"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 108.183.3"
+      }, {
+        "label" : "Titel",
+        "value" : "Aufnahmen zur Arbeit in der Seidenfabrik in Faverges und zum Leben im Château Ouvrier, in Faverges (Frankreich)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1928 (ca.)-1935 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Aktiengesellschaft für Seidenindustrie"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "41 Fotografien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "11.8 x 8.3; 9.1 x 8.4; 13.8 x 8.9; 16.4 x 11.3; 16.6 x 12.4; 17.4 x 12.4; 22.6 x 14.6"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://0aec7c43-6390-466c-be67-5ec9c6eac0cb",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3656,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cabad1f9-7b86-4ca8-8045-e0d67edb1bd5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3656,
+          "width" : 2480
+        },
+        "on" : "http://0aec7c43-6390-466c-be67-5ec9c6eac0cb"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.6"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://4c8227bf-f50b-4471-a87c-109fedd7b425",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3677,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6e4f7dae-cf3d-4e8a-ae0b-2b1a065ed970",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3677,
+          "width" : 2480
+        },
+        "on" : "http://4c8227bf-f50b-4471-a87c-109fedd7b425"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.5"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://1b0fb09f-4c01-47cf-808b-017fc6be38ba",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3704,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://844dfba2-755f-4838-85a1-8b1e1178e7d2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3704,
+          "width" : 2480
+        },
+        "on" : "http://1b0fb09f-4c01-47cf-808b-017fc6be38ba"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.4"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://6aaf0bdb-6d5b-4197-a8d9-2d77837f358a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2480,
+      "width" : 3713,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a80e54d8-e8ac-4787-85c4-ee676fbe509e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2480,
+          "width" : 3713
+        },
+        "on" : "http://6aaf0bdb-6d5b-4197-a8d9-2d77837f358a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.3"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://f0f3de7a-3dde-4c3d-98e7-bab3e339f1c2",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2480,
+      "width" : 3724,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0831be65-d605-4480-be16-7c2604e68d62",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/W_I_103_1040_2_d/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/W_I_103_1040_2_d",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2480,
+          "width" : 3724
+        },
+        "on" : "http://f0f3de7a-3dde-4c3d-98e7-bab3e339f1c2"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.2"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://3c3dd14b-0360-4d69-bf88-4ad0cb410793",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3698,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b29e2458-011b-4d6d-ac7f-b03f86077bdd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.1040.1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3698,
+          "width" : 2480
+        },
+        "on" : "http://3c3dd14b-0360-4d69-bf88-4ad0cb410793"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.1040.1"
+      }, {
+        "label" : "Titel",
+        "value" : "Maschinelles Drucken in der Seidendruckerei Mitödi AG"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner AG"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "43 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.3 x 3.5, 3.5 x 2.3"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://bbcfdf5c-d373-4d57-a1e7-7bad990d872e",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 1520,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://da8e5ca9-9f31-4179-a399-d29363b5c4b5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.936.19/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_103.936.19",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1520,
+          "width" : 2480
+        },
+        "on" : "http://bbcfdf5c-d373-4d57-a1e7-7bad990d872e"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 103.936.19"
+      }, {
+        "label" : "Titel",
+        "value" : "Plan zur Vergrösserung der Seidenweberei"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Gessner und Co."
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Séquin und Knobel, Zivilingenieur-Bureau, Rüti"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "87 x 50"
+      }, {
+        "label" : "Technik",
+        "value" : "Kopierverfahren; Tinte; Tusche; Bleistift; Farbstift; Aquarell"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://4733b8b8-8972-4078-a01d-2f1795ff92ee",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 3096,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://34dfe67c-cd7b-44db-9150-7f79799897b8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.281.1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.281.1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3096,
+          "width" : 3508
+        },
+        "on" : "http://4733b8b8-8972-4078-a01d-2f1795ff92ee"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.281"
+      }, {
+        "label" : "Titel",
+        "value" : "Elektrische Trocknungsapparate der Seidentrocknungsanstalt Zürich (System Siegfried)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1910 (ca.)-1920 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "2 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "22.4 x 16.5"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://0fa20ced-88ae-4860-9618-980c16b910df",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2962,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3c193ae2-7eea-4b85-aa55-12cb0c592c7d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.256/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.256",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2962,
+          "width" : 3508
+        },
+        "on" : "http://0fa20ced-88ae-4860-9618-980c16b910df"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.256"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenprüfungsanstalt Lyon"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1890 (ca.)-1910 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "24 x 18"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://573c26de-5bb5-416a-ae00-ae24cbf71394",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 1949,
+      "width" : 2274,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3812502d-2368-430f-a994-6251fe31a28a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1949,
+          "width" : 2274
+        },
+        "on" : "http://573c26de-5bb5-416a-ae00-ae24cbf71394"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.10"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://63b4352d-d910-441e-adfb-f90fb0c61a93",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 1978,
+      "width" : 2362,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7533290d-d715-4066-84bc-7d3b8f0f0692",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1978,
+          "width" : 2362
+        },
+        "on" : "http://63b4352d-d910-441e-adfb-f90fb0c61a93"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.9"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://b24ce027-11ea-48ba-999f-65d75f5f7291",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2008,
+      "width" : 2421,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4b0134c6-73c8-490d-b0ad-343cddeb7c62",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2008,
+          "width" : 2421
+        },
+        "on" : "http://b24ce027-11ea-48ba-999f-65d75f5f7291"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.8"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://0b59e5df-bb32-4ba9-bd69-6193c2e39d6a",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2008,
+      "width" : 2362,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://916cf379-968b-4acd-ae3c-460069b8731e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2008,
+          "width" : 2362
+        },
+        "on" : "http://0b59e5df-bb32-4ba9-bd69-6193c2e39d6a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.7"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://77ced40b-e94e-4c22-b502-034fa1cd06ed",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2008,
+      "width" : 2422,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dd18af1b-b4ee-479f-a602-702fa85d6bff",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2008,
+          "width" : 2422
+        },
+        "on" : "http://77ced40b-e94e-4c22-b502-034fa1cd06ed"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.6"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://9f0d995a-4a05-4621-9faf-a1bce915c3ed",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2008,
+      "width" : 2303,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://81e6bb17-289b-4a9f-bec4-6304b6988c15",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2008,
+          "width" : 2303
+        },
+        "on" : "http://9f0d995a-4a05-4621-9faf-a1bce915c3ed"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.5"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://bd5b0ff7-297a-47d8-84c6-522951c616be",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2746,
+      "width" : 1742,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e39b814b-b99d-451f-9957-0d08cf2066aa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2746,
+          "width" : 1742
+        },
+        "on" : "http://bd5b0ff7-297a-47d8-84c6-522951c616be"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.4"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://da8f65e3-d3ff-430e-aeb9-f69a4b4f2995",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 1949,
+      "width" : 2333,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8ad2e6d2-db85-40ec-9c66-e92671e296cc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1949,
+          "width" : 2333
+        },
+        "on" : "http://da8f65e3-d3ff-430e-aeb9-f69a4b4f2995"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.3"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://b8449e7f-b5dd-4c8b-a7e7-2634429da290",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2008,
+      "width" : 2362,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fecfa361-7668-4836-909a-9e329fbcbe0b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2008,
+          "width" : 2362
+        },
+        "on" : "http://b8449e7f-b5dd-4c8b-a7e7-2634429da290"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.2"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://d60b6068-f807-45af-96d8-7b897b22afd1",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 1988,
+      "width" : 2324,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4a787da6-12ea-4e5a-ab79-93ea9bcc0a22",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.253.1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1988,
+          "width" : 2324
+        },
+        "on" : "http://d60b6068-f807-45af-96d8-7b897b22afd1"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.253.1"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidenraupenzucht und Rohseidenproduktion in Asien"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1950 (ca.)-1960 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "10 Aufnahmen"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "13 x 18, 18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://c6f5996e-8488-4f60-90ba-ed15997a6056",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2513,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1f61774c-6615-4a63-b6b2-ce441efa9911",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.182.1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.182.1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2513,
+          "width" : 3508
+        },
+        "on" : "http://c6f5996e-8488-4f60-90ba-ed15997a6056"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.182.1"
+      }, {
+        "label" : "Titel",
+        "value" : "Formulare und Belege von Seidenprüfungen"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Value"
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "Value"
+      }, {
+        "label" : "Technik",
+        "value" : "Value"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://a924524b-abfe-4be0-ae06-4a51e8078d3b",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2659,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7a09d89e-fa49-422d-bd1c-83c83c9d4344",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.171.2.2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.171.2.2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2659,
+          "width" : 3508
+        },
+        "on" : "http://a924524b-abfe-4be0-ae06-4a51e8078d3b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.171.2.2"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidentrocknungsanstalt an der Ecke Alfred-Escher-Strasse und Gotthardstrasse"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1930 (ca.)-1940 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "2 Aufnahmen. Ersatzkopien auf Fotopapier, angefertigt 2014. Bei den Originalen handelte es sich um Fotografien mit den Merkmalen: Negativ, Silbergelatineverfahren, Cellulosenitrat-Film, schwarz-weiss."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Tintenstrahldruck"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://df37ebbd-aad0-407a-8c6b-b34c7a4aa060",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2708,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c072db91-e338-4a1f-9493-21b1fd7a68b4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.171.2.1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_99.171.2.1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2708,
+          "width" : 3508
+        },
+        "on" : "http://df37ebbd-aad0-407a-8c6b-b34c7a4aa060"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 99.171.2.1"
+      }, {
+        "label" : "Titel",
+        "value" : "Seidentrocknungsanstalt an der Ecke Alfred-Escher-Strasse und Gotthardstrasse"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1930 (ca.)-1940 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Seidentrocknungsanstalt Zürich"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "2 Aufnahmen. Ersatzkopien auf Fotopapier, angefertigt 2014. Bei den Originalen handelte es sich um Fotografien mit den Merkmalen: Negativ, Silbergelatineverfahren, Cellulosenitrat-Film, schwarz-weiss."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "18 x 13"
+      }, {
+        "label" : "Technik",
+        "value" : "Tintenstrahldruck"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Positiv"
+      } ]
+    }, {
+      "@id" : "http://004b22df-86f2-45d0-afc7-6c4d9eab5a5b",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2348,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a2f7db21-fd80-4da2-9869-3d166ddbb66c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_97.843.103/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_97.843.103",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2348,
+          "width" : 3508
+        },
+        "on" : "http://004b22df-86f2-45d0-afc7-6c4d9eab5a5b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 97.843.103"
+      }, {
+        "label" : "Titel",
+        "value" : "Arbeitsabläufe und Prozesse bei der Kreation und Produktion von Seidenstoffen"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1986 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Weisbrod-Zürrer AG, Hausen am Albis"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "108 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.4 x 3.6, 3.6 x 2.4"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://2572fbb0-d000-4a32-bace-425cb2020a35",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2389,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1957b402-c3d1-4d56-907d-ca83aa4c6d46",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_97.843.93/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_W_I_97.843.93",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2389,
+          "width" : 3508
+        },
+        "on" : "http://2572fbb0-d000-4a32-bace-425cb2020a35"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "W I 97.843.93"
+      }, {
+        "label" : "Titel",
+        "value" : "Arbeitsabläufe und Prozesse bei der Kreation und Produktion von Seidenstoffen"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1986 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Weisbrod-Zürrer AG, Hausen am Albis"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "108 Aufnahmen."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "2.4 x 3.6, 3.6 x 2.4"
+      }, {
+        "label" : "Technik",
+        "value" : "Silber-Gelatine-Verfahren"
+      }, {
+        "label" : "Material",
+        "value" : "Value"
+      }, {
+        "label" : "Gattung",
+        "value" : "Diapositiv"
+      } ]
+    }, {
+      "@id" : "http://e570c833-7312-4be6-bff8-cd651c73939b",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 2386,
+      "width" : 3508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f5d5531-bc38-4cc8-a3a2-6be5d9e5de79",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_L_1746/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_L_1746",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2386,
+          "width" : 3508
+        },
+        "on" : "http://e570c833-7312-4be6-bff8-cd651c73939b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "PLAN L 1746"
+      }, {
+        "label" : "Titel",
+        "value" : "Adliswil: Sihl bei der Seidenweberei Schwarzenbach und Cie., projektierte Stützmauer; Situationsplan (Blatt Nr. 1)"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "Value"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Direktion der öffentlichen Arbeiten, Abteilung Tiefbau, Wasserbauwesen"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Mit Originalvermerk: Verfügt: 4. Sept. 1884."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Aufnahme: Zweifel, H., Ingenieur"
+      }, {
+        "label" : "Massstab",
+        "value" : "1 : 500 (Massstabsleiste von 110 Meter)"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "77.2 x 52.4"
+      }, {
+        "label" : "Technik",
+        "value" : "Tinte, Grafitstift, Aquarell"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://18ca1cda-ff5a-4e29-823e-a90d8c5246ec",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 7323,
+      "width" : 5487,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://331d92f8-e32d-4aba-a18b-416238da2715",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_205/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_205",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7323,
+          "width" : 5487
+        },
+        "on" : "http://18ca1cda-ff5a-4e29-823e-a90d8c5246ec"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "PLAN D 205"
+      }, {
+        "label" : "Titel",
+        "value" : "Grobspinnstuhl für Seidenabfälle (240 Spindeln); Detailansichten und -schnitte"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1864 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Value"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Ohne Datumsangabe."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "Value"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "42.0 x 53.5"
+      }, {
+        "label" : "Technik",
+        "value" : "Tusche, Grafitstift"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://90450f50-8dcf-4868-bdad-dd8b8d597b8c",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 6033,
+      "width" : 4271,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8aec136a-af22-4d6b-9b78-5101896a9639",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_D_202",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6033,
+          "width" : 4271
+        },
+        "on" : "http://90450f50-8dcf-4868-bdad-dd8b8d597b8c"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "PLAN D 202"
+      }, {
+        "label" : "Titel",
+        "value" : "Grobspinnerei für Seidenabfälle; Ansicht und Grundrisse"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1864 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Value"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Ohne Datumsangabe."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Value"
+      }, {
+        "label" : "Massstab",
+        "value" : "1 : 120 (Massstabsleiste von 40 englischen Fuss)"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "28.0 x 48.0"
+      }, {
+        "label" : "Technik",
+        "value" : "Tusche"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    }, {
+      "@id" : "http://966f848a-f68d-45f2-9c8f-636f0855519c",
+      "@type" : "sc:Canvas",
+      "label" : "Archivalie",
+      "height" : 8909,
+      "width" : 6222,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2be36083-5bab-41d9-ab42-e6e5310c1990",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_A_31/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aldon9.github.io/Seidenindustrie/images/StAZH_PLAN_A_31",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8909,
+          "width" : 6222
+        },
+        "on" : "http://966f848a-f68d-45f2-9c8f-636f0855519c"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Signatur",
+        "value" : "PLAN A 31"
+      }, {
+        "label" : "Titel",
+        "value" : "Kanton Zürich: Geographische Verteilung der Seidenindustrie nach der Zählung vom 01.12.1870"
+      }, {
+        "label" : "Entstehungszeitraum",
+        "value" : "1870 (ca.)"
+      }, {
+        "label" : "Provenienz",
+        "value" : "Value"
+      }, {
+        "label" : "Inhalt und Form",
+        "value" : "Originaltitel: Geographische Verteilung der Seidenindustrie, der mechanischen Seidenzwirnereien, Windereien, Seidenwebereien, Kattundruckereien, Seiden- und Baumwollfärbereien."
+      }, {
+        "label" : "Autorschaft",
+        "value" : "Müller, C. K., Chef des Statistischen Bureaus Wurster, Randegger und Cie., in Winterthur Kommissionsverlag: J. Wurster und Co., in Zürich"
+      }, {
+        "label" : "Massstab",
+        "value" : "1 : 125000"
+      }, {
+        "label" : "Masse B x H (cm)",
+        "value" : "49.0 x 64.2"
+      }, {
+        "label" : "Technik",
+        "value" : "Farblithografie"
+      }, {
+        "label" : "Material",
+        "value" : "Papier"
+      }, {
+        "label" : "Gattung",
+        "value" : "Value"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
